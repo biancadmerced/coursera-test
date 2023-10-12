@@ -1,2 +1,2 @@
 # coursera-test
-theme: minima 
+theme: minima
